@@ -1,0 +1,6 @@
+framework module KCCore {
+  umbrella header "KCCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
